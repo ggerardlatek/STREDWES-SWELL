@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="j_idt9"><script type="text/javascript" id="Kiwip"><!--/*--><![CDATA[/*><!--*/
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() { var u="//stats.dans.knaw.nl/"; _paq.push(['setTrackerUrl', u+'danstats.php']); _paq.push(['setSiteId', '18']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'danstats.js'; s.parentNode.insertBefore(g,s); }
+)();
+/*-->]]>*/</script>
+<noscript><p><img src="https://stats.dans.knaw.nl/danstats.php?idsite=18" style="border:0;" alt="" /></p></noscript>
+
+            <title>pp10_8-10-2012-c1.S00 - DANS Data Station Social Sciences and Humanities</title>
+	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            <meta name="description" content="ORIGINAL_FILE_PATH: &quot;0 - Raw data/D - Physiology - raw data/Mobi signals (raw and filtered)/pp10_8-10-2012-c1.S00&quot;" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/theme.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces-bootstrap&amp;v=11.0.0" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/primeicons/primeicons.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0" /><script type="text/javascript" src="/javax.faces.resource/omnifaces.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=omnifaces&amp;v=3.8"></script><script type="text/javascript" src="/javax.faces.resource/jquery/jquery.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0"></script><script type="text/javascript" src="/javax.faces.resource/jquery/jquery-plugins.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0"></script><script type="text/javascript" src="/javax.faces.resource/core.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0"></script><script type="text/javascript" src="/javax.faces.resource/components.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0"></script><link type="text/css" rel="stylesheet" href="/javax.faces.resource/components.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0" /><script type="text/javascript" src="/javax.faces.resource/touch/touchswipe.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0"></script><script type="text/javascript" src="/javax.faces.resource/inputmask/inputmask.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0"></script><script type="text/javascript" src="/javax.faces.resource/datepicker/datepicker.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0"></script><link type="text/css" rel="stylesheet" href="/javax.faces.resource/fileupload/fileupload.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0" /><script type="text/javascript" src="/javax.faces.resource/fileupload/fileupload.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=primefaces&amp;v=11.0.0"></script><script type="text/javascript">if(window.PrimeFaces){PrimeFaces.settings.locale='en';PrimeFaces.settings.viewId='/file.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cookiesSecure=false;}</script>
+        <link rel="apple-touch-icon" sizes="180x180" href="/javax.faces.resource/images/fav/apple-touch-icon.png.xhtml;jsessionid=189faec9441124614d0e2b1230a3" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=189faec9441124614d0e2b1230a3" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/javax.faces.resource/images/fav/favicon-32x32.png.xhtml;jsessionid=189faec9441124614d0e2b1230a3" />
+        <link rel="manifest" href="/javax.faces.resource/images/fav/site.webmanifest.xhtml;jsessionid=189faec9441124614d0e2b1230a3" />
+        <link rel="mask-icon" href="/javax.faces.resource/images/fav/safari-pinned-tab.svg.xhtml;jsessionid=189faec9441124614d0e2b1230a3" color="#da532c" />
+        <meta name="msapplication-TileColor" content="#da532c" />
+        <meta name="theme-color" content="#ffffff" />
+        <link type="image/png" rel="image_src" href="/javax.faces.resource/images/dataverseproject.png.xhtml;jsessionid=189faec9441124614d0e2b1230a3" />
+        <link type="text/css" rel="stylesheet" href="/javax.faces.resource/bs/css/bootstrap.min.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1" />
+        <link type="text/css" rel="stylesheet" href="/javax.faces.resource/bs/css/bootstrap-theme.min.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1" />
+        <link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/ie-compat.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1" />
+        <link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/owl.carousel.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1" />
+        <link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/fontcustom.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1" />
+        <link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/socicon.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1" />
+        <link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/structure.css.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1" />
+            <style>
+                /* Custom CSS */
+                /** Start of custom CSS */
+
+/*  DANS site Colors:
+  DANS blue = #00A7D4
+  DANS red = #DC241F
+  Light blue = #E4F9FF
+  Dark blue = #003A49
+  Rood (active) = #AB130F
+*/
+
+/* for the footer */
+@import url('https://fonts.googleapis.com/css?family=Glegoo');
+
+/* change font 'globally' */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body, .ui-widget, .ui-widget button, .tooltip, .popover {
+  font-family: "Open Sans",Helvetica,Arial,sans-serif;
+}
+
+
+/* hide the 'Add Data' selection dropdown, assume it is the first menu item */
+#topNavBar ul:first-child li:first-child.dropdown { display:none; visibility:hidden; }
+/* hide the 'Search' selection dropdown, assume it is the second menu item */
+#topNavBar ul:first-child li:nth-child(2).dropdown { display:none; visibility:hidden; }
+
+
+/* ************* */
+/* custom header */
+/* ************* */
+
+/* in order to remove it */
+/* #custom-header { display:none; } */
+
+/* Overwrite default navbar styles to make room at the top of the browser page for our custom header... */
+/*
+.navbar-fixed-top {
+    top:50px !important;
+}
+
+#dataverse-header-block {
+    padding-top: 100px;
+}
+*/
+
+/* Place narrow custom header at the top of the page... */
+/*
+#custom-header {
+    background: #E4F9FF;
+    border-top-style: solid; border-top-color: #00A7D4; border-top-width: 2px;
+    
+    min-height: 44px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 930;
+    padding-top: 8px;
+}
+
+#custom-header a.cst-hdr-link {
+    line-height: 32px;
+    color: #BAC5C6;
+    font-weight: bold;
+}
+
+#custom-header img {
+    height: 38px;
+}
+*/
+
+
+/* ************* */
+/* custom footer */
+/* ************* */
+
+/* in order to remove it */
+/* #custom-footer { display:none; } */
+
+/* Overwrite default footer styles to make room at the bottom of the browser page for our custom footer... */
+html, body {
+    height: 100%;
+}
+
+#content.container {
+    min-height: calc(100% - 210px);
+    margin-bottom: -342px; /* was -242px;*/
+}
+
+#content.container:after {
+    content: "";
+    display: block;
+}
+
+footer {
+    position: relative;
+}
+
+#dvfooter {
+        color: #a9a9a9; 
+        margin-top:0px; 
+        padding-bottom:10px; /* was 0 */
+        bottom:-492px; /* was -442px; */
+        position: relative;
+}
+
+/* Place custom footer just above default footer at the bottom of the page... */
+#custom-footer, #content.container:after {
+    /*height: 252px; */
+    height: 352px; 
+}
+
+#custom-footer {
+    /* below was for a dark background, but commented out */
+    /* background: #515151; color: #ffffff; */
+    min-height: 100px; padding: 1.25em 0 100px 0;
+    /* DANS blue top border */
+    border-top-style: solid; border-top-color: #00A7D4; border-top-width: 2px;
+    
+    color: #003A49; 
+}
+
+#custom-footer a {
+    color: #fff;
+}
+
+/* fix for white logos on white backround */
+/*
+#custom-footer .overdans img {
+    background-color:#515151;
+}
+*/
+
+#custom-footer .row:nth-child(2n) {
+    position: relative;
+    top:-30px;
+}
+
+#custom-footer a {
+    color:inherit;
+}
+
+
+#custom-footer a:hover {
+    text-decoration:none;
+}
+
+
+#custom-footer ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left:0;
+}
+
+#custom-footer ul li {
+    margin:5px 0;
+}
+
+#custom-footer .h1 {
+    /* font-family: "Open Sans", Arial, Helvetica, sans-serif; */
+    /* text-transform: uppercase; */
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 1.56em;
+    letter-spacing:normal;
+    
+    color: #DC241F;
+    font-family: 'Glegoo',Georgia,"Times New Roman",serif;
+}
+
+#custom-footer .headless-column {
+  margin-top:34px;
+}
+
+#custom-footer .more:after {
+    /* content: "  ›››"; */
+    content: "  \203a\203a\203a";
+}
+
+
+/** Below is tweaking the standard footer based on the size and position of the custom footer above it */
+@media only screen and (max-width: 768px) {
+   /* For phones: xs */
+   #dvfooter {
+     bottom: -642px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  /* For tablets: sm */
+   #dvfooter {
+     bottom: -422px;
+  }
+}
+@media only screen and (min-width: 992px) {
+  /* For small laptops: md */
+   #dvfooter {
+     bottom: -342px;
+}
+@media only screen and (min-width: 1200px) {
+  /* For desktop: lg */
+   #dvfooter {
+     bottom: -342px;
+  }
+}
+
+/** Additional custom CSS */
+#dataverseHeader a.dataverseHeaderDataverseName h1 {
+  font-family: 'Glegoo', Georgia, "Times New Roman", serif;
+  font-sixe: 22px;
+}
+#dataverseHeader .dataverseHeaderTagline {
+  font-size: 1.0em;
+}
+
+
+/** End of custom CSS */
+
+            </style></head><body>
+	<a href="#content" class="sr-only">Skip to main content</a>
+
+    <nav id="dataverse-header-block"><div id="navbarFixed" class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#topNavBar" aria-pressed="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="/"><img src="/logos/branding/DS-DANS-logo.png;jsessionid=189faec9441124614d0e2b1230a3" alt="DANS Data Station Social Sciences and Humanities homepage" class="navbar-brand custom-logo" />
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse" id="topNavBar">
+                    <ul class="nav navbar-nav navbar-right"><li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Add Data <b class="caret"></b></a>
+                            <ul class="dropdown-menu"><li><a href="/dataset.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ownerId=1">New Dataset</a></li>
+                            </ul></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Search <b class="caret"></b></a>
+                            <ul class="dropdown-menu navbar-search">
+                                <li>
+                                    <form class="form-inline" role="search">
+                                        <label id="searchNavLabel" class="sr-only" for="navbarsearch">Search</label>
+                                        <div class="input-group">
+                                            <input id="navbarsearch" type="text" class="form-control" size="28" value="" placeholder="Search all dataverses..." />
+                                            <span class="input-group-btn">
+                                                <button type="submit" title="Find" class="btn btn-default bootstrap-button-tooltip" aria-labelledby="searchNavLabel" onclick="window.location='/dataverse/root?q=' + document.getElementById('navbarsearch').value;return false;">
+                                                    <span class="glyphicon glyphicon-search no-text"></span>
+                                                </button>
+                                            </span>
+                                        </div>
+                                    </form>
+                                </li>
+                            </ul>
+                        </li><li><a href="https://dans.knaw.nl/data-stations/social-sciences-and-humanities" rel="noopener" target="_blank">About</a></li>
+                        <li><a href="https://guides.dataverse.org/en/5.11.1/user" rel="noopener" target="_blank">User Guide</a>
+                        </li><li><a href="https://dans.knaw.nl/en/data-stations/social-sciences-and-humanities/#data_person_question" rel="noopener" target="_blank">Support</a></li>
+                            <li>
+                            </li>
+                            <li><a href="/loginpage.xhtml;jsessionid=189faec9441124614d0e2b1230a3?redirectPage=%2Ffile.xhtml%3FfileId%3D172434">
+                                    Log In
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div></div>
+        
+        <noscript>
+            <div id="noscript-alert" class="bg-danger">
+                <div class="alert container text-danger no-margin-bottom">Please enable JavaScript in your browser. It is required to use most of the features of Dataverse.
+                </div>
+            </div>
+        </noscript>
+<form id="j_idt106" name="j_idt106" method="post" action="/file.xhtml;jsessionid=189faec9441124614d0e2b1230a3?fileId=172434" class="form-inline" enctype="application/x-www-form-urlencoded" data-partialsubmit="true">
+<input type="hidden" name="j_idt106" value="j_idt106" />
+<input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="-2222225460195793291:-2721504242141600477" autocomplete="off" />
+</form><div style="background:#FFFFFF;" id="dataverseHeader" class="container bg-muted">
+            <div class="dataverseHeaderBlock"><div class="dataverseHeaderCell dataverseHeaderName">
+                    <a href="/dataverse/root" class="dataverseHeaderDataverseName" style="color:#dc251f;"><h1>DANS Data Station Social Sciences and Humanities</h1></a></div><div class="dataverseHeaderCell dataverseHeaderTagline"><span style="color:#00a6d4;">This Data Station allows you to deposit and search for data within the field of SSH</span></div>
+            </div></div><div id="breadCrumbPanel"><div id="breadcrumbNavBlock" class="container">
+                <div class="breadcrumbBlock">
+                            <a id="breadcrumbLnk0" href="/dataverse/root">DANS Data Station Social Sciences and Humanities
+                            </a>
+                </div><span class="breadcrumbCarrot"> &gt; </span>
+                <div class="breadcrumbBlock">
+                            <a id="breadcrumbLnk1" href="/dataset.xhtml?persistentId=doi:10.17026/dans-x55-69zp&amp;version=2.0">The SWELL Knowledge Work Dataset for Stress and User Modeling Research
+                            </a>
+                </div><span class="breadcrumbCarrot"> &gt; </span>
+                <div class="breadcrumbBlock">
+                </div></div></div><div id="messagePanel">
+            <div class="container messagePanel">
+            </div></div>
+    </nav>
+        <div class="container" id="content" role="main">
+<form id="fileForm" name="fileForm" method="post" action="/file.xhtml;jsessionid=189faec9441124614d0e2b1230a3?fileId=172434" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="fileForm" value="fileForm" />
+
+                    
+                    <div id="fileVersionBlock" class="row">
+                        <div class="col-xs-12">
+                            <div class="row">
+                                <div id="file-title-block" class="col-xs-12 margin-bottom-half">
+                                    <span class="file-title-label">pp10_8-10-2012-c1.S00</span>
+                                    
+
+                                    <p class="help-block">This file is part of "The SWELL Knowledge Work Dataset for Stress and User Modeling Research".
+                                    </p>
+
+                                    <div id="title-label-block" class="margin-top-half"><span class="label label-default">Version 2.0</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            
+                            <div class="row">
+                                
+                                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9"><span class="h5">File Citation</span>
+                                    <div class="citation-block">
+                                        <div class="clearfix alert alert-info bg-citation bg-citation-file">
+                                            <div class="citation margin-bottom">
+                                                <span id="citation-select-2" onclick="if (event.target) { selectText(event.target); } else{ selectText(this); }">W. Kraaij; S. Koldijk; M. Sappelli, 2014, "The SWELL Knowledge Work Dataset for Stress and User Modeling Research", <a href="https://doi.org/10.17026/dans-x55-69zp" target="_blank">https://doi.org/10.17026/dans-x55-69zp</a>, DANS Data Station Social Sciences and Humanities, V2; pp10_8-10-2012-c1.S00 [fileName]
+                                                </span>
+                                            </div><div class="pull-left row col-sm-9 padding-none"><div class="col-sm-3 col-md-4 col-lg-3 btn-group margin-bottom citation-download">
+                                                    <button type="button" class="btn btn-link dropdown-toggle padding-none downloadCitation" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                         Cite Data File <span class="caret"></span>
+                                                    </button>
+                                                    <ul class="dropdown-menu">
+                                                        <li><script type="text/javascript" src="/javax.faces.resource/jsf.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?ln=javax.faces"></script><a id="fileForm:endNoteLink-2" href="#" onclick="mojarra.jsfcljs(document.getElementById('fileForm'),{'fileForm:endNoteLink-2':'fileForm:endNoteLink-2'},'');return false">
+                                                                EndNote XML
+                                                            </a>
+                                                        </li>
+                                                        <li><a id="fileForm:risLink-2" href="#" onclick="mojarra.jsfcljs(document.getElementById('fileForm'),{'fileForm:risLink-2':'fileForm:risLink-2'},'');return false">
+                                                                RIS
+                                                            </a>
+                                                        </li>
+                                                        <li><a id="fileForm:bibLink-2" href="#" onclick="mojarra.jsfcljs(document.getElementById('fileForm'),{'fileForm:bibLink-2':'fileForm:bibLink-2'},'_blank');return false" target="_blank">
+                                                                BibTeX
+                                                            </a>
+                                                        </li>
+                                                    </ul></div><div class="col-sm-9 col-md-8 col-lg-9 text-muted margin-bottom citation-standards">Learn about <a href="https://dataverse.org/best-practices/data-citation" title="Data Citation - Dataverse.org" target="_blank">Data Citation Standards</a>.</div></div>
+                                        </div>
+                                    </div><span class="h5">Dataset Citation</span>
+                                    <div class="citation-block no-margin-bottom">
+                                        <div class="clearfix alert alert-info bg-citation">
+                                            <div class="citation margin-bottom">
+                                                <span class="citation-select" onclick="if (event.target) { selectText(event.target); } else{ selectText(this); }">W. Kraaij; S. Koldijk; M. Sappelli, 2014, "The SWELL Knowledge Work Dataset for Stress and User Modeling Research", <a href="https://doi.org/10.17026/dans-x55-69zp" target="_blank">https://doi.org/10.17026/dans-x55-69zp</a>, DANS Data Station Social Sciences and Humanities, V2, UNF:6:+sJViItgGoLGKqf7od9nQA== [fileUNF]
+                                                </span>
+                                            </div><div class="pull-left row col-sm-9 padding-none"><div class="col-sm-3 col-md-4 col-lg-3 btn-group margin-bottom citation-download">
+                                                    <button type="button" class="btn btn-link dropdown-toggle padding-none downloadCitation" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                        Cite Dataset <span class="caret"></span>
+                                                    </button>
+                                                    <ul class="dropdown-menu">
+                                                        <li><a id="fileForm:endNoteLink" href="#" onclick="mojarra.jsfcljs(document.getElementById('fileForm'),{'fileForm:endNoteLink':'fileForm:endNoteLink'},'');return false">
+                                                                EndNote XML
+                                                            </a>
+                                                        </li>
+                                                        <li><a id="fileForm:risLink" href="#" onclick="mojarra.jsfcljs(document.getElementById('fileForm'),{'fileForm:risLink':'fileForm:risLink'},'');return false">
+                                                                RIS
+                                                            </a>
+                                                        </li>
+                                                        <li><a id="fileForm:bibLink" href="#" onclick="mojarra.jsfcljs(document.getElementById('fileForm'),{'fileForm:bibLink':'fileForm:bibLink'},'_blank');return false" target="_blank">
+                                                                BibTeX
+                                                            </a>
+                                                        </li>
+                                                    </ul></div><div class="col-sm-9 col-md-8 col-lg-9 text-muted margin-bottom citation-standards">Learn about <a href="https://dataverse.org/best-practices/data-citation" title="Data Citation - Dataverse.org" target="_blank">Data Citation Standards</a>.</div></div>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                                
+
+                                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3 pull-right margin-bottom">
+                                    
+                                    <div id="actionButtonBlock"><div class="btn-group btn-group-justified">
+                                                <div class="btn-group">
+                                                    <button type="button" class="btn btn-primary btn-access-file dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                        Access File <span class="caret"></span>
+                                                    </button>
+                                                    <ul class="dropdown-menu pull-right text-left">
+    
+    
+    <li class="dropdown-header">File Access <span class="glyphicon glyphicon-file"></span></li>
+    <li><span class="dropdown-item-text">
+            <span class="glyphicon glyphicon-globe text-success"></span><span class="text-success"> Public</span>
+        </span></li>
+        
+        <li class="dropdown-header">Download Options <span class="glyphicon glyphicon-download-alt"></span></li><li><a id="fileForm:j_idt274" href="#" class="ui-commandlink ui-widget btn-download" onclick="PrimeFaces.ab({s:&quot;fileForm:j_idt274&quot;,f:&quot;fileForm&quot;,p:&quot;fileForm:j_idt274&quot;,u:&quot;@widgetVar(downloadPopup)&quot;,onco:function(xhr,status,args,data){PF('downloadPopup').show();handleResizeDialog('downloadPopup');;}});return false;">
+                
+                Original File Format
+            </a></li>
+    
+    
+    
+    <li class="dropdown-header">Download Metadata <span class="glyphicon glyphicon-download-alt"></span></li><li class="dropdown-submenu pull-left">
+            <a tabindex="0">Data File Citation</a>
+        <ul class="dropdown-menu">
+            <li><a href="#" onclick="mojarra.jsfcljs(document.getElementById('fileForm'),{'fileForm:j_idt307':'fileForm:j_idt307'},'');return false" class="btn-download">EndNote XML</a>
+            </li>
+            <li><a href="#" onclick="mojarra.jsfcljs(document.getElementById('fileForm'),{'fileForm:j_idt310':'fileForm:j_idt310'},'');return false" class="btn-download">RIS</a>
+            </li>
+            <li><a href="#" onclick="mojarra.jsfcljs(document.getElementById('fileForm'),{'fileForm:j_idt313':'fileForm:j_idt313'},'');return false" class="btn-download">BibTeX</a>
+            </li>
+        </ul></li>
+    
+    <li role="presentation" class="clearfix"></li>
+                                                        
+                                                    </ul>
+                                                </div></div><div class="btn-group btn-group-justified"></div><div class="btn-group btn-group-justified"><a id="fileForm:j_idt405" href="#" class="ui-commandlink ui-widget btn btn-default btn-xs btn-contact" onclick="PrimeFaces.ab({s:&quot;fileForm:j_idt405&quot;,f:&quot;fileForm&quot;,u:&quot;contactDialog&quot;,onco:function(xhr,status,args,data){PF('contactForm').show();}});return false;" title="Contact Dataset Owner">
+                                                    Contact Owner
+                                                </a><a id="fileForm:j_idt407" href="#" class="ui-commandlink ui-widget btn btn-default btn-xs btn-share" onclick="PrimeFaces.ab({s:&quot;fileForm:j_idt407&quot;,f:&quot;fileForm&quot;,onco:function(xhr,status,args,data){PF('shareDialog').show();sharrre();;}});return false;" title="Share File">
+                                                    Share
+                                                </a></div>
+                                            
+                                    </div>
+                                    
+                                </div><div style="clear:right;" class="col-xs-12 col-sm-12 col-md-4 col-lg-3 pull-right margin-bottom">
+                                    
+                                    <div id="metrics-block">
+                                        <div id="metrics-heading">
+                                            File Metrics
+                                            
+                                                <span class="glyphicon glyphicon-question-sign tooltip-icon" data-toggle="tooltip" data-placement="auto top" data-trigger="hover" data-original-title="Metrics for this individual file."></span>
+                                        </div>
+                                        <div id="metrics-body"><div class="metrics-count-block">20 Downloads
+                                                <span class="glyphicon glyphicon-question-sign tooltip-icon" data-toggle="tooltip" data-placement="auto top" data-original-title="Total downloads of this file."></span></div>
+                                        </div>
+                                    </div></div>
+                                
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
+                    <div id="contentTabs"><div id="fileForm:tabView" class="ui-tabs ui-widget ui-widget-content ui-corner-all ui-hidden-container ui-tabs-top" data-widget="content"><ul class="ui-tabs-nav ui-helper-reset ui-widget-header ui-corner-all" role="tablist"><li class="ui-tabs-header ui-state-default ui-tabs-selected ui-state-active ui-corner-top" role="tab" aria-expanded="true" aria-selected="true" data-index="0"><a href="#fileForm:tabView:metadataMapTab" tabindex="-1">Metadata</a></li><li class="ui-tabs-header ui-state-default ui-corner-top" role="tab" aria-expanded="false" aria-selected="false" data-index="1"><a href="#fileForm:tabView:versionsTab" tabindex="-1">Versions</a></li></ul><div class="ui-tabs-panels"><div id="fileForm:tabView:metadataMapTab" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-hidden="false" data-index="0">
+                                
+                                <div class="button-block tab-header margin-bottom text-right"><div class="btn-group">
+                                        <button class="btn btn-default btn-export dropdown-toggle" type="button" data-toggle="dropdown">
+                                            <span class="glyphicon glyphicon-export"></span> Export Metadata <span class="caret"></span>
+                                        </button>
+                                        <ul class="dropdown-menu pull-right text-left">
+                                                <li><a href="https://ssh.datastations.nl/api/datasets/export;jsessionid=189faec9441124614d0e2b1230a3?exporter=dcterms&amp;persistentId=doi%3A10.17026/dans-x55-69zp" target="_blank">Dublin Core</a>
+                                                </li>
+                                                <li><a href="https://ssh.datastations.nl/api/datasets/export;jsessionid=189faec9441124614d0e2b1230a3?exporter=ddi&amp;persistentId=doi%3A10.17026/dans-x55-69zp" target="_blank">DDI</a>
+                                                </li>
+                                                <li><a href="https://ssh.datastations.nl/api/datasets/export;jsessionid=189faec9441124614d0e2b1230a3?exporter=Datacite&amp;persistentId=doi%3A10.17026/dans-x55-69zp" target="_blank">DataCite</a>
+                                                </li>
+                                                <li><a href="https://ssh.datastations.nl/api/datasets/export;jsessionid=189faec9441124614d0e2b1230a3?exporter=html&amp;persistentId=doi%3A10.17026/dans-x55-69zp" target="_blank">DDI HTML Codebook</a>
+                                                </li>
+                                                <li><a href="https://ssh.datastations.nl/api/datasets/export;jsessionid=189faec9441124614d0e2b1230a3?exporter=dataverse_json&amp;persistentId=doi%3A10.17026/dans-x55-69zp" target="_blank">JSON</a>
+                                                </li>
+                                                <li><a href="https://ssh.datastations.nl/api/datasets/export;jsessionid=189faec9441124614d0e2b1230a3?exporter=OAI_ORE&amp;persistentId=doi%3A10.17026/dans-x55-69zp" target="_blank">OAI_ORE</a>
+                                                </li>
+                                                <li><a href="https://ssh.datastations.nl/api/datasets/export;jsessionid=189faec9441124614d0e2b1230a3?exporter=oai_datacite&amp;persistentId=doi%3A10.17026/dans-x55-69zp" target="_blank">OpenAIRE</a>
+                                                </li>
+                                                <li><a href="https://ssh.datastations.nl/api/datasets/export;jsessionid=189faec9441124614d0e2b1230a3?exporter=schema.org&amp;persistentId=doi%3A10.17026/dans-x55-69zp" target="_blank">Schema.org JSON-LD</a>
+                                                </li>
+                                        </ul></div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div data-toggle="collapse" data-target="#panelCollapseFMD" class="panel-heading text-info">
+                                        File Metadata  <span class="glyphicon glyphicon-chevron-up"></span>
+                                    </div>
+                                    <div id="panelCollapseFMD" class="collapse in">
+                                        <div class="panel-body metadata-container">
+                                            <table class="metadata">
+                                                <tbody>
+                                                    <tr id="filePreviewBlock">
+                                                        <th scope="row">
+                                                            Preview
+                                                        </th>
+                                                        <td>
+                                                            <div id="file-preview-icon-block">
+                                                                <div id="border-block" style="border:0;">
+                                                                    <div id="preview-square"><span class="icon-other text-muted"></span>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </td>
+                                                    </tr><tr id="fileChecksumBlock">
+                                                        <th scope="row">
+                                                            SHA1
+                                                        </th>
+                                                        <td class="checksum-block">9379d62c95da7308a1035e2353f122696ce12478</td></tr>
+                                                    <tr id="fileDepositDateBlock">
+                                                        <th scope="row">
+                                                            Deposit Date
+                                                        </th>
+                                                        <td>2023-03-16</td>
+                                                    </tr><tr id="metadataReleaseDateBlock">
+                                                        <th scope="row">
+                                                            Metadata Release Date
+                                                        </th>
+                                                        <td>2014-08-27
+                                                        </td></tr><tr id="fileEPublicationDateBlock">
+                                                        <th scope="row">
+                                                            Publication Date
+                                                        </th>
+                                                        <td> 2014-08-27
+                                                        </td></tr><tr id="fileSizeBlock">
+                                                        <th scope="row">
+                                                            Size
+                                                        </th>
+                                                        <td>198.9 MB</td></tr><tr id="fileTypeBlock">
+                                                        <th scope="row">
+                                                            Type
+                                                        </th>
+                                                        <td>Unknown</td></tr><tr id="filePathBlock">
+                                                        <th scope="row">
+                                                            File Path
+                                                        </th>
+                                                        <td>0 - Raw data/D - Physiology - raw data/Mobi signals _raw and filtered_/</td></tr><tr id="fileDescriptionBlock">
+                                                        <th scope="row">
+                                                            Description
+                                                        </th>
+                                                        <td>ORIGINAL_FILE_PATH: "0 - Raw data/D - Physiology - raw data/Mobi signals (raw and filtered)/pp10_8-10-2012-c1.S00"</td></tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div></div><div id="fileForm:tabView:versionsTab" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-helper-hidden" role="tabpanel" aria-hidden="true" data-index="1">
+    
+    <script>
+        //<![CDATA[
+        // Version tab: Retrieve data after page load
+        $(document).ready(function () {
+            preload_message = "(Loading versions...)";
+            $('#fileForm\\:tabView\\:versionsTable_data tr.ui-datatable-empty-message td').text(preload_message);
+        });
+        //]]>
+    </script><div id="fileForm:tabView:versionsTable" class="ui-datatable ui-widget"><div class="ui-datatable-tablewrapper"><table role="grid"><thead id="fileForm:tabView:versionsTable_head"><tr role="row"><th id="fileForm:tabView:versionsTable:j_idt659" class="ui-state-default col-sm-1 text-center" role="columnheader" aria-label="Dataset Version" scope="col"><span class="ui-column-title">Dataset Version</span></th><th id="fileForm:tabView:versionsTable:j_idt672" class="ui-state-default" role="columnheader" aria-label="Summary" scope="col"><span class="ui-column-title">Summary</span></th><th id="fileForm:tabView:versionsTable:j_idt696" class="ui-state-default col-sm-3" role="columnheader" aria-label="Contributors" scope="col"><span class="ui-column-title">Contributors</span></th><th id="fileForm:tabView:versionsTable:j_idt699" class="ui-state-default col-sm-2" role="columnheader" aria-label="Published on" scope="col"><span class="ui-column-title">Published on</span></th></tr></thead><tbody id="fileForm:tabView:versionsTable_data" class="ui-datatable-data ui-widget-content"><tr class="ui-widget-content ui-datatable-empty-message"><td colspan="4">No records found.</td></tr></tbody></table></div></div><script id="fileForm:tabView:versionsTable_s" type="text/javascript">$(function(){PrimeFaces.cw("DataTable","versionsTable",{id:"fileForm:tabView:versionsTable",groupColumnIndexes:[],disableContextMenuIfEmpty:false});});</script></div></div><input id="fileForm:tabView_activeIndex" name="fileForm:tabView_activeIndex" type="hidden" autocomplete="off" aria-hidden="true" value="0" /></div><script id="fileForm:tabView_s" type="text/javascript">$(function(){PrimeFaces.cw("TabView","content",{id:"fileForm:tabView",effectDuration:"normal",scrollable:false,behaviors:{tabChange:function(ext,event) {PrimeFaces.ab({s:"fileForm:tabView",e:"tabChange",f:"fileForm",p:"fileForm:tabView",u:"fileForm:tabView"},ext);}}});});</script>
+                    </div><div id="fileForm:fileAlreadyDeletedPrevious" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container smallPopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:fileAlreadyDeletedPrevious_title" class="ui-dialog-title">Edit File</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:fileAlreadyDeletedPrevious_content">
+        <p class="text-danger"><span class="glyphicon glyphicon-exclamation-sign"></span> This file has already been deleted (or replaced) in the current version. It may not be edited.</p>
+        <div class="button-block">
+            <button class="btn btn-default" onclick="PF('fileAlreadyDeletedPrevious').hide();" type="button">
+                Close
+            </button>
+        </div></div></div><script id="fileForm:fileAlreadyDeletedPrevious_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","fileAlreadyDeletedPrevious",{id:"fileForm:fileAlreadyDeletedPrevious",modal:true});});</script><div id="fileForm:accessPopup" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:accessPopup_title" class="ui-dialog-title">Restrict Access</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:accessPopup_content"><span id="fileForm:j_idt702"></span><script type="text/javascript">$(function(){PrimeFaces.focus(null, 'fileForm:accessPopup');});</script>
+        <p class="help-block"><span class="text-muted">Restricting limits access to published files. People who want to use the restricted files can request access by default.  </span><span style="font-weight:bold">If you disable request access, you must add information about access to the Terms of Access field.</span>
+            <p></p><span class="text-muted">Learn about restricting files and dataset access in the <a href="https://guides.dataverse.org/en/5.11.1/user/dataset-management.html#restricted-files-terms-of-access" title="Dataverse User Guide" target="_blank">User Guide</a>.</span>
+        </p><div id="fileForm:j_idt711"><input id="fileForm:termsofAccessHidden" type="hidden" name="fileForm:termsofAccessHidden" /><input id="fileForm:fileAccessRequestHidden" type="hidden" name="fileForm:fileAccessRequestHidden" value="false" /></div>
+        <div class="form-horizontal">
+            <div class="form-group">
+                <label for="datasetForm:requestAccess2" class="col-sm-3 control-label">
+                    Request Access
+                    <span class="glyphicon glyphicon-question-sign tooltip-icon" data-toggle="tooltip" data-placement="auto right" data-original-title="If checked, users can request access to the restricted files in this dataset."></span>
+                </label>
+                <div class="col-sm-9"><div id="fileForm:requestAccess2" class="ui-selectbooleancheckbox ui-chkbox ui-widget"><div class="ui-helper-hidden-accessible"><input id="fileForm:requestAccess2_input" name="fileForm:requestAccess2_input" type="checkbox" autocomplete="off" aria-label="Enable access request" aria-checked="false" onchange="PrimeFaces.ab({s:&quot;fileForm:requestAccess2&quot;,e:&quot;change&quot;,f:&quot;fileForm&quot;,p:&quot;fileForm:requestAccess2&quot;,u:&quot;fileForm:restrictFileButton&quot;});" /></div><div class="ui-chkbox-box ui-widget ui-corner-all ui-state-default"><span class="ui-chkbox-icon ui-icon ui-icon-blank ui-c"></span></div><span class="ui-chkbox-label">Enable access request</span></div><script id="fileForm:requestAccess2_s" type="text/javascript">$(function(){PrimeFaces.cw("SelectBooleanCheckbox","inputfar",{id:"fileForm:requestAccess2"});});</script>
+                </div>
+            </div><div id="fileForm:popupWarning"><div aria-live="polite" class="ui-message ui-message-error ui-widget ui-corner-all">
+                           <span class="ui-message-error-detail">You must enable request access or add terms of access to restrict file access.</span></div></div>
+            <div class="form-group">
+                <label for="termsAccessInput" class="col-sm-3 control-label">
+                    Terms of Access for Restricted Files
+                    <span class="glyphicon glyphicon-question-sign tooltip-icon" data-toggle="tooltip" data-placement="auto right" data-original-title="Information on how and if users can access restricted files in this Dataset"></span>
+                </label>
+                <div class="col-sm-9"><textarea id="fileForm:termsAccessInput" name="fileForm:termsAccessInput" class="ui-inputfield ui-inputtextarea ui-widget ui-state-default ui-corner-all form-control" cols="20" rows="5" maxlength="2147483647" onkeyup="PrimeFaces.ab({s:&quot;fileForm:termsAccessInput&quot;,e:&quot;keyup&quot;,f:&quot;fileForm&quot;,p:&quot;fileForm:termsAccessInput&quot;,u:&quot;fileForm:restrictFileButton&quot;});"></textarea><script id="fileForm:termsAccessInput_s" type="text/javascript">$(function(){PrimeFaces.cw("InputTextarea","inputtoa",{id:"fileForm:termsAccessInput",autoResize:false,behaviors:{}});});</script> 
+                </div>
+            </div>
+        </div>
+
+        <div class="button-block"><a id="fileForm:restrictFileButton" href="#" class="ui-commandlink ui-widget btn btn-default" onclick="testTOA();;PrimeFaces.ab({s:&quot;fileForm:restrictFileButton&quot;,f:&quot;fileForm&quot;,u:&quot;fileForm:popupWarning&quot;});return false;">Save Changes</a>
+            <button class="btn btn-link" onclick="PF('accessPopup').hide();PF('blockDatasetForm').hide();" type="button">
+                Cancel
+            </button> 
+
+        </div></div></div><script id="fileForm:accessPopup_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","accessPopup",{id:"fileForm:accessPopup",modal:true,width:"700px",height:"350px"});});</script><div id="fileForm:fileEmbargoPopup" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container smallPopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:fileEmbargoPopup_title" class="ui-dialog-title">Edit Embargo</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:fileEmbargoPopup_content"><span id="fileForm:j_idt719"></span><script type="text/javascript">$(function(){PrimeFaces.focus('fileForm:fileEmbargoDate');});</script><p class="text-danger embargo"><span class="glyphicon glyphicon-exclamation-sign"></span>The selected file or files have already been published. Contact an administrator to change the embargo date or reason of the file or files.</p><span id="fileForm:embargoInputs">
+            <div class="embargo">
+            </div>
+            <div class="embargo">
+            </div></span>
+        <div class="button-block"><button id="fileForm:fileEmbargoPopupCancelButton" name="fileForm:fileEmbargoPopupCancelButton" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-link" onclick="PrimeFaces.bcn(this,event,[function(event){PF('fileEmbargoPopup').hide();                     PF('blockDatasetForm').hide();},function(event){PrimeFaces.ab({s:&quot;fileForm:fileEmbargoPopupCancelButton&quot;,f:&quot;fileForm&quot;,u:&quot;fileForm:embargoInputs&quot;});return false;}]);" type="submit"><span class="ui-button-text ui-c">Cancel</span></button><script id="fileForm:fileEmbargoPopupCancelButton_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_fileForm_fileEmbargoPopupCancelButton",{id:"fileForm:fileEmbargoPopupCancelButton"});});</script>
+        </div></div></div><script id="fileForm:fileEmbargoPopup_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","fileEmbargoPopup",{id:"fileForm:fileEmbargoPopup",resizable:false,modal:true});});</script><div id="fileForm:deleteFileConfirm" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container smallPopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:deleteFileConfirm_title" class="ui-dialog-title">Delete Files</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:deleteFileConfirm_content">
+        <p class="text-warning"><span class="glyphicon glyphicon-warning-sign"></span> The file will be deleted after you click on the Delete button.</p>
+            <p class="text-warning"><span class="glyphicon glyphicon-warning-sign"></span> Files will not be removed from previously published versions of the dataset.</p>
+        <div class="button-block"><button id="fileForm:j_idt750" name="fileForm:j_idt750" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-default" onclick="PrimeFaces.bcn(this,event,[function(event){PF('deleteFileConfirmation').hide()},function(event){PrimeFaces.ab({s:&quot;fileForm:j_idt750&quot;,f:&quot;fileForm&quot;});return false;}]);" type="submit"><span class="ui-button-text ui-c">Delete</span></button><script id="fileForm:j_idt750_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_fileForm_j_idt750",{id:"fileForm:j_idt750"});});</script>
+            <button class="btn btn-link" onclick="PF('deleteFileConfirmation').hide()" type="button">
+                Cancel
+            </button>
+        </div></div></div><script id="fileForm:deleteFileConfirm_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","deleteFileConfirmation",{id:"fileForm:deleteFileConfirm",modal:true});});</script><div id="fileForm:configureToolPopup" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container smallPopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:configureToolPopup_title" class="ui-dialog-title"></span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:configureToolPopup_content">
+
+        <p class="help-block"><span class="text-left"> <br/></span>
+        </p>
+        
+        <div class="button-block"><button id="fileForm:j_idt755" name="fileForm:j_idt755" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-default" onclick="PrimeFaces.bcn(this,event,[function(event){PF('configureToolPopup').hide();},function(event){PrimeFaces.ab({s:&quot;fileForm:j_idt755&quot;,f:&quot;fileForm&quot;,u:&quot;messagePanel&quot;});return false;}]);" type="submit"><span class="ui-button-text ui-c">Continue</span></button><script id="fileForm:j_idt755_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_fileForm_j_idt755",{id:"fileForm:j_idt755"});});</script>
+            <button class="btn btn-link" onclick="PF('configureToolPopup').hide();PF('blockDatasetForm').hide();" type="button">
+                Cancel
+            </button>
+        </div></div></div><script id="fileForm:configureToolPopup_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","configureToolPopup",{id:"fileForm:configureToolPopup",modal:true});});</script><div id="fileForm:selectFiles" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container smallPopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:selectFiles_title" class="ui-dialog-title">Select File(s)</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:selectFiles_content">
+        <p class="text-danger"><span class="glyphicon glyphicon-exclamation-sign"></span> Please select one or more files.</p>
+        <div class="button-block">
+            <button class="btn btn-default" onclick="PF('selectFiles').hide();" type="button">
+                Close
+            </button>
+        </div></div></div><script id="fileForm:selectFiles_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","selectFiles",{id:"fileForm:selectFiles",modal:true});});</script><script id="fileForm:j_idt758" type="text/javascript">restrictFileCommand = function() {return PrimeFaces.ab({s:"fileForm:j_idt758",f:"fileForm",u:"messagePanel",pa:arguments[0]});}</script>
+        <script>
+        //<![CDATA[
+            function testTOA() {
+                var termsofAccessHidden, fileAccessRequestHidden;
+                    try{
+                        termsofAccessHidden  = document.getElementById("datasetForm:termsofAccessHidden").value;
+                        fileAccessRequestHidden  =   document.getElementById("datasetForm:fileAccessRequestHidden").value;                                                    
+                    } catch (error){
+                        termsofAccessHidden  = document.getElementById("fileForm:termsofAccessHidden").value;
+                        fileAccessRequestHidden  =   document.getElementById("fileForm:fileAccessRequestHidden").value;
+                    }
+                        if (fileAccessRequestHidden === 'false' && termsofAccessHidden === '') {
+                           //Not compliant show error keep popup open...
+                        } else {
+                            PF('accessPopup').hide();
+                            restrictFileCommand();
+                        }
+                    }                    
+        //]]>
+    </script><div id="fileForm:shareDialog" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:shareDialog_title" class="ui-dialog-title">Share File</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:shareDialog_content">
+                        <p class="help-block">Share this file on your favorite social media networks.</p>
+                        <div id="sharrre-widget" data-text="View this file." data-url="https://ssh.datastations.nl/file.xhtml?fileId=172434&amp;version=2.0"></div>
+                        <div class="button-block">
+                            <button class="btn btn-default" onclick="PF('shareDialog').hide()" type="button">
+                                Close
+                            </button>
+                        </div></div></div><script id="fileForm:shareDialog_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","shareDialog",{id:"fileForm:shareDialog",modal:true});});</script><div id="fileForm:downloadPopup" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container largePopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:downloadPopup_title" class="ui-dialog-title">Dataset Terms</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:downloadPopup_content"><span id="fileForm:j_idt761"></span><script type="text/javascript">$(function(){PrimeFaces.focus(null, 'fileForm:guestbookUIFragment');});</script>
+        <p class="help-block">
+            This dataset is made available under the following terms. Please confirm and/or complete the information needed below in order to continue.
+        </p><div id="fileForm:guestbookMessages">
+            <div class="container messagePanel">
+            </div></div>
+        
+        <div class="form-horizontal terms">
+        
+        <div class="form-group"><label for="fileForm:fdLicense" class="col-sm-3 control-label">
+                License/Data Use Agreement </label>
+            <div class="col-sm-9">
+                <p class="help-block">Our <a href="https://dataverse.org/best-practices/dataverse-community-norms" title="Dataverse Community Norms - Dataverse.org" target="_blank">Community Norms</a> as well as good scientific practices expect that proper credit is given via citation. Please use the data citation shown on the dataset page.
+                </p>
+                <p>
+                    <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License." style="display: none" onload="this.style.display='inline'" />
+                    <a href="http://creativecommons.org/licenses/by-nc-sa/4.0" title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License." target="_blank">CC-BY-NC-SA-4.0
+                    </a>
+                </p>
+            </div>
+        </div>
+        </div>
+        <div class="button-block"><button id="fileForm:j_idt863" name="fileForm:j_idt863" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-default" onclick="PrimeFaces.ab({s:&quot;fileForm:j_idt863&quot;,f:&quot;fileForm&quot;,u:&quot;fileForm:guestbookUIFragment&quot;,pa:[{name:&quot;DO_GB_VALIDATION_downloadFile&quot;,value:&quot;true&quot;}]});return false;" type="submit"><span class="ui-button-text ui-c">Accept</span></button><script id="fileForm:j_idt863_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_fileForm_j_idt863",{id:"fileForm:j_idt863"});});</script><button name="fileForm:j_idt871" value="" onclick="PF('downloadPopup').hide();PF('blockDatasetForm').hide();" type="button" class="btn btn-link">
+                Cancel
+            </button>
+        </div></div></div><script id="fileForm:downloadPopup_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","downloadPopup",{id:"fileForm:downloadPopup",modal:true});});</script><div id="fileForm:downloadPackagePopup" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container smallPopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:downloadPackagePopup_title" class="ui-dialog-title">Package File Download</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:downloadPackagePopup_content"><div id="fileForm:packagePopupDownloadInfo">
+        <div class="col-sm-12">
+            <p class="help-block no-margin-top">Use the Download URL in a Wget command or a download manager to download this package file. Download via web browser is not recommended. <a href="https://guides.dataverse.org/en/5.11.1/user/find-use-data.html#downloading-a-dataverse-package-via-url" title="User Guide - Downloading a Dataverse Package via URL" target="_blank">User Guide - Downloading a Dataverse Package via URL</a>
+            </p>
+        </div>
+        <div class="col-sm-12 margin-bottom">
+        </div>
+        <div class="col-sm-12">
+            <label>Download URL</label> 
+            <p><code>https://ssh.datastations.nl/api/access/datafile/</code></p>
+        </div>
+        <div class="col-sm-12 button-block margin-top"><button id="fileForm:downloadPackagePopupCancelButton" name="fileForm:downloadPackagePopupCancelButton" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-default" onclick="PrimeFaces.bcn(this,event,[function(event){PF('downloadPackagePopup').hide();},function(event){PrimeFaces.ab({s:&quot;fileForm:downloadPackagePopupCancelButton&quot;,f:&quot;fileForm&quot;,u:&quot;fileForm:downloadPackagePopup&quot;});return false;}]);" type="submit"><span class="ui-button-text ui-c">Close</span></button><script id="fileForm:downloadPackagePopupCancelButton_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_fileForm_downloadPackagePopupCancelButton",{id:"fileForm:downloadPackagePopupCancelButton"});});</script>
+        </div></div></div></div><script id="fileForm:downloadPackagePopup_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","downloadPackagePopup",{id:"fileForm:downloadPackagePopup",modal:true});});</script><div id="fileForm:requestAccessPopup" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container largePopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:requestAccessPopup_title" class="ui-dialog-title">Request Access</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:requestAccessPopup_content">
+        <p class="help-block">
+            Please confirm and/or complete the information needed below in order to request access to files in this dataset.
+        </p>
+        <div class="form-horizontal"><div class="form-group">
+                <label class="col-sm-3 control-label">
+                    Terms of Access for Restricted Files
+                </label>
+                <div class="col-sm-6">
+                    <div class="panel panel-default">
+                        <div class="panel-body read-terms">N/a
+                        </div>
+                    </div>
+                </div></div>
+        </div>
+        <div class="button-block"><button id="fileForm:j_idt925" name="fileForm:j_idt925" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-default" onclick="PrimeFaces.ab({s:&quot;fileForm:j_idt925&quot;,f:&quot;fileForm&quot;,u:&quot;@([id$=requestAccessConsolidated]) @([id$=requestPanel]) @([id$=messagePanel]) @([id$=filesTable])&quot;,onco:function(xhr,status,args,data){PF('requestAccessPopup').hide();;}});return false;" type="submit"><span class="ui-button-text ui-c">Accept</span></button><script id="fileForm:j_idt925_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_fileForm_j_idt925",{id:"fileForm:j_idt925"});});</script>
+            <button class="btn btn-link" onclick="PF('requestAccessPopup').hide();PF('blockDatasetForm').hide();" type="button">
+                Cancel
+            </button>
+        </div></div></div><script id="fileForm:requestAccessPopup_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","requestAccessPopup",{id:"fileForm:requestAccessPopup",modal:true});});</script><div id="fileForm:mapDataDialog" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:mapDataDialog_title" class="ui-dialog-title">???file.mapData.unpublished.header???</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:mapDataDialog_content">
+                        <p class="help-block">
+                            <span class="text-danger"><span class="glyphicon glyphicon-exclamation-sign"></span> ???file.mapData.unpublished.message???</span>
+                        </p>
+                        <div class="button-block">
+                            <button type="button" class="btn btn-default" onclick="PF('mapDataDialog').hide();PF('blockDatasetForm').hide();">
+                                Close
+                            </button>
+                        </div></div></div><script id="fileForm:mapDataDialog_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","mapDataDialog",{id:"fileForm:mapDataDialog",modal:true});});</script>
+    <script src="/javax.faces.resource/js/fileupload.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3"></script><div id="fileForm:editProvenancePopup" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container smallPopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:editProvenancePopup_title" class="ui-dialog-title">Provenance</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:editProvenancePopup_content"><div id="fileForm:assignMessages">
+            <div class="popupMessagePanel">
+            </div></div>
+        <div class="form-horizontal"><div id="fileForm:provPopupOutput" class="ui-outputpanel ui-widget form-group text-left">
+                <div class="col-sm-12">
+                    <p class="help-block"> Provenance is a record of the origin of your data file and any transformations it has been through. Upload a JSON file from a provenance capture tool to generate a graph of your data's provenance. For more information, please refer to our <a href="https://guides.dataverse.org/en/5.11.1/user/" title="Dataverse User Guide" target="_blank">User Guide</a>.
+                        
+                    </p>
+                </div><label for="fileForm:provUpload_input" class="col-sm-3 control-label">
+                    Provenance File
+                </label>
+                <div class="col-sm-9">
+                            <p class="help-block">File must be JSON format and follow the <a href="https://www.w3.org/Submission/2013/SUBM-prov-json-20130424/" target="_blank">W3C standard</a>.</p><div id="fileForm:provUpload" class="ui-fileupload ui-widget ui-fileupload-responsive margin-bottom"><div class="ui-fileupload-buttonbar ui-widget-header ui-corner-top"><span class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-left ui-fileupload-choose" tabindex="0" role="button" aria-labelledby="fileForm:provUpload_label"><span class="ui-button-icon-left ui-icon ui-c ui-icon-plusthick"></span><span id="fileForm:provUpload_label" class="ui-button-text ui-c">Select File</span><input type="file" id="fileForm:provUpload_input" name="fileForm:provUpload_input" aria-hidden="true" tabindex="-1" /></span></div><div class="ui-fileupload-content ui-widget-content ui-corner-bottom"><div class="ui-fileupload-files"><div></div></div></div></div><script id="fileForm:provUpload_s" type="text/javascript">$(function(){PrimeFaces.cw("FileUpload","widget_fileForm_provUpload",{id:"fileForm:provUpload",mode:"advanced",auto:true,update:"fileForm:provPopupOutput fileForm:assignMessages",invalidSizeMessage:"This file exceeds the size limit.",fileLimit:1,onstart:function(){javascript:uploadStarted();},onerror:function(){javascript:uploadFailure();},allowTypes:/(\.|\/)(json)$/});});</script><div id="fileForm:provUploadMessage" role="alert" aria-atomic="true" aria-live="polite" class="ui-message"></div><script id="fileForm:provUploadMessage_s" type="text/javascript">$(function(){PrimeFaces.cw("Message","widget_fileForm_provUploadMessage",{id:"fileForm:provUploadMessage",target:"fileForm:provUpload"});});</script>
+                </div></div>
+            
+            <div class="form-group text-left">
+                <div class="col-sm-12">
+                    <p class="help-block">You may also add information documenting the history of your data file, including how it was created, how it has changed, and who has worked with it.</p>
+                </div>
+            </div>
+            <div class="form-group text-left"><label for="fileForm:provenanceFreeform" class="col-sm-3 control-label">
+                    Provenance Description
+                </label>
+                <div class="col-sm-9"><textarea id="fileForm:provenanceFreeform" name="fileForm:provenanceFreeform" style="width:98%; margin-top:.5em;" class="ui-inputfield ui-inputtextarea ui-widget ui-state-default ui-corner-all form-control ui-inputtextarea-resizable" cols="40" rows="2" placeholder="Add provenance description..." maxlength="2147483647" onkeypress="if (event.keyCode == 13) {                                             return false;                                         }"></textarea><script id="fileForm:provenanceFreeform_s" type="text/javascript">$(function(){PrimeFaces.cw("InputTextarea","widget_fileForm_provenanceFreeform",{id:"fileForm:provenanceFreeform",autoResize:true});});</script><div id="fileForm:j_idt1002" role="alert" aria-atomic="true" aria-live="polite" class="ui-message"></div><script id="fileForm:j_idt1002_s" type="text/javascript">$(function(){PrimeFaces.cw("Message","widget_fileForm_j_idt1002",{id:"fileForm:j_idt1002",target:"fileForm:provenanceFreeform"});});</script>
+                </div>
+            </div>
+            <div class="button-block"><button id="fileForm:editProvenancePopupSaveButton" name="fileForm:editProvenancePopupSaveButton" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-default" onclick="PrimeFaces.ab({s:&quot;fileForm:editProvenancePopupSaveButton&quot;,f:&quot;fileForm&quot;,u:&quot;fileForm:provPopupOutput fileForm:assignMessages fileForm:confirmProvenancePopup&quot;,onco:function(xhr,status,args,data){if (args &amp;&amp; !args.validationFailed) { PF('editProvenancePopup').hide();PF('confirmProvenancePopup').show();};}});return false;" type="submit"><span class="ui-button-text ui-c">Continue</span></button><script id="fileForm:editProvenancePopupSaveButton_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_fileForm_editProvenancePopupSaveButton",{id:"fileForm:editProvenancePopupSaveButton"});});</script><button id="fileForm:editProvenancePopupCancelButton" name="fileForm:editProvenancePopupCancelButton" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-link" onclick="PrimeFaces.bcn(this,event,[function(event){PF('editProvenancePopup').hide();},function(event){PrimeFaces.ab({s:&quot;fileForm:editProvenancePopupCancelButton&quot;,f:&quot;fileForm&quot;,u:&quot;fileForm:provPopupOutput fileForm:assignMessages fileForm:confirmProvenancePopup&quot;});return false;}]);" type="submit"><span class="ui-button-text ui-c">Cancel</span></button><script id="fileForm:editProvenancePopupCancelButton_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_fileForm_editProvenancePopupCancelButton",{id:"fileForm:editProvenancePopupCancelButton"});});</script>
+            </div>
+        </div></div></div><script id="fileForm:editProvenancePopup_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","editProvenancePopup",{id:"fileForm:editProvenancePopup",modal:true});});</script><div id="fileForm:confirmProvenancePopup" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container smallPopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:confirmProvenancePopup_title" class="ui-dialog-title">Provenance</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:confirmProvenancePopup_content">
+        <div class="form-horizontal">
+            <div class="form-group text-left"><div id="noChanges" class="col-sm-12 text-warning">
+                    <span class="glyphicon glyphicon-warning-sign"></span> No changes have been made.</div>
+            </div>
+        </div>
+        <div class="button-block"><button id="fileForm:confirmProvenancePopupSaveButton" name="fileForm:confirmProvenancePopupSaveButton" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-default" onclick="PrimeFaces.ab({s:&quot;fileForm:confirmProvenancePopupSaveButton&quot;,f:&quot;fileForm&quot;,u:&quot;messagePanel&quot;,onco:function(xhr,status,args,data){PF('confirmProvenancePopup').hide();;}});return false;" type="submit"><span class="ui-button-text ui-c">Save Changes</span></button><script id="fileForm:confirmProvenancePopupSaveButton_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_fileForm_confirmProvenancePopupSaveButton",{id:"fileForm:confirmProvenancePopupSaveButton"});});</script><button id="fileForm:confirmProvenancePopupCancelButton" name="fileForm:confirmProvenancePopupCancelButton" value="" onclick="PF('editProvenancePopup').show();PF('confirmProvenancePopup').hide();" type="button" class="btn btn-link">
+                Cancel
+            </button>
+        </div></div></div><script id="fileForm:confirmProvenancePopup_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","confirmProvenancePopup",{id:"fileForm:confirmProvenancePopup",modal:true});});</script><div id="fileForm:accessGuest" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:accessGuest_title" class="ui-dialog-title">Request Access</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:accessGuest_content">
+                        <p class="help-block">
+                            <span class="glyphicon glyphicon-exclamation-sign text-danger"></span> 
+                            <span class="text-danger">You need to <a href="/loginpage.xhtml?redirectPage=%2Ffile.xhtml%3FfileId%3D172434" target="_self" title="Log into your Dataverse Account">Log In</a> to request access.</span>
+                        </p>
+                        <div class="button-block">
+                            <button class="btn btn-default" onclick="PF('accessSignUpLogIn_popup').hide();PF('blockDatasetForm').hide();" type="button">
+                                Close
+                            </button>
+                        </div></div></div><script id="fileForm:accessGuest_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","accessSignUpLogIn_popup",{id:"fileForm:accessGuest",modal:true});});</script><div id="fileForm:computeAccessDenied" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container smallPopUp"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="fileForm:computeAccessDenied_title" class="ui-dialog-title">Compute</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="fileForm:computeAccessDenied_content">
+                        <p class="text-danger"><span class="glyphicon glyphicon-exclamation-sign"></span> This file is restricted and you may not compute on it because you have not been granted access.</p>
+                        <div class="button-block">
+                            <button class="btn btn-default" onclick="PF('computeAccessDeniedPopup').hide();" type="button">
+                                Close
+                            </button>
+                        </div></div></div><script id="fileForm:computeAccessDenied_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","computeAccessDeniedPopup",{id:"fileForm:computeAccessDenied",modal:true});});</script><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:1" value="-2222225460195793291:-2721504242141600477" autocomplete="off" />
+</form>
+                <script>
+                    //<![CDATA[
+                    function editTerms(){                             
+                        PF('accessPopup').show();
+                    }
+                    //]]>
+                </script>
+        </div>
+    <footer>
+        <div id="dvfooter">
+            <div class="container">
+                <div class="row"><div class="col-sm-8 small">
+                        <p>Copyright &#169; 2023&#160;DANS
+                        </p></div>
+                    <div class="col-sm-4 text-right">
+                        <div class="poweredbylogo">
+                            <span>Powered by</span>
+                            <a href="http://dataverse.org/" title="The Dataverse Project" target="_blank" rel="noopener"><img src="/resources/images/dataverse_project_logo.svg" width="118" height="40" onerror="this.src='/resources/images/dataverseproject_logo.png'" alt="The Dataverse Project logo" /></a><span class="version">v. 5.11.1 build DANS-DataStation-PATCH-5</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!-- START of custom footer content -->
+<style>
+        /* NOTE: CSS has been moved to custom-stylesheet.css file */
+</style>
+<div id="custom-footer">
+    <div class="container">
+        <div class="row">
+            <!-- Start of row content -->
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="h1">Contact and Support</div>
+                <ul class="services">
+                    <li><a href="https://dans.knaw.nl/en/contact/" target="_blank">Contact</a></li>
+                    <li><a href="https://dans.knaw.nl/en/using-data-stations/" target="_blank">Using the Services</a></li>
+                    <li><a href="https://dans.knaw.nl/en/legal-information/" target="_blank">Legal Information</a></li>
+                    <li><a href="https://dans.knaw.nl/en/privacy-declaration/" target="_blank">Privacy</a></li>
+                    <li><a href="https://dans.knaw.nl/en/disclaimer/" target="_blank">Disclaimer</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="h1">About DANS</div>
+                <ul>
+                    <li><a href="https://dans.knaw.nl/en/about/" target="_blank">Mission</a></li>
+                    <li><a href="https://dans.knaw.nl/en/about/team/" target="_blank">Our Team</a></li>
+                    <li><a href="https://dans.knaw.nl/en/working-for-dans/"  target="_blank">Working with DANS</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="h1">Follow Us</div>
+                <ul>
+                    <li>
+                        <a href="https://dans.email-provider.eu/memberforms/subscribe/standalone/form/?a=vzl9su9xiv&l=yy3ox9lfh8" target="_blank">
+                                <span class="footer_icons nieuwsbrief">
+                                    <img src="/logos/branding/letter.svg"/>
+                                    Newsletter DataLink
+                                </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/user/DANSDataArchiving" target="_blank">
+                                <span class="footer_icons">
+                                    <img src="/logos/branding/Youtube.svg"/> YouTube
+                                </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/dans_knaw_nwo" target="_blank">
+                                <span class="footer_icons">
+                                    <img src="/logos/branding/Twitter.svg"/> Twitter
+                                </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="headless-column">
+                    <p>DANS is an institute of <br/>
+                        <a href="https://www.knaw.nl/en" target="_blank"><strong>KNAW</strong></a>
+                        and
+                        <a href="https://www.nwo.nl/en" target="_blank"><strong>NWO</strong></a>
+                    </p>
+                </div>
+            </div>
+            <!-- End of row content -->
+        </div>
+    </div>
+</div>
+<!-- END of custom footer content -->
+
+    </footer><div id="ajaxStatusPanel"><div id="ajaxStatusPanel_start" style="display:none"><img src="/resources/images/ajax-loading.gif;jsessionid=189faec9441124614d0e2b1230a3" alt="Loading..." /></div></div><script id="ajaxStatusPanel_s" type="text/javascript">$(function(){PrimeFaces.cw("AjaxStatus","widget_ajaxStatusPanel",{id:"ajaxStatusPanel",delay:0});});</script><div id="contactDialog" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="contactDialog_title" class="ui-dialog-title">Contact DANS Data Station Social Sciences and Humanities Support</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="contactDialog_content"><div id="j_idt1058">
+<form id="emailForm" name="emailForm" method="post" action="/file.xhtml;jsessionid=189faec9441124614d0e2b1230a3?fileId=172434" class="form-horizontal" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="emailForm" value="emailForm" />
+<span id="emailForm:j_idt1059"></span><script type="text/javascript">$(function(){PrimeFaces.focus(null, 'contactDialog');});</script>
+                
+                <div class="form-group">
+                    <label for="messageTo" class="col-sm-3 control-label">To</label>
+                    <div class="col-sm-9">
+                        <p id="messageTo" class="form-control-static">DANS Data Station Social Sciences and Humanities Support</p>
+                    </div>
+                </div>
+                
+                    <div class="form-group"><label for="emailForm:userEmail" class="col-sm-3 control-label">From <span class="glyphicon glyphicon-asterisk text-danger" title="Required field"></span></label>
+                        <div class="col-sm-9"><input id="emailForm:userEmail" name="emailForm:userEmail" type="text" value="" class="ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all form-control" size="30" /><script id="emailForm:userEmail_s" type="text/javascript">$(function(){PrimeFaces.cw("InputText","widget_emailForm_userEmail",{id:"emailForm:userEmail"});});</script>
+                        </div>
+                    </div>
+                
+                <div class="form-group"><label for="emailForm:messageSubject" class="col-sm-3 control-label">Subject <span class="glyphicon glyphicon-asterisk text-danger" title="Required field"></span></label>
+                    <div class="col-sm-9"><input id="emailForm:messageSubject" name="emailForm:messageSubject" type="text" value="" class="ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all form-control" /><script id="emailForm:messageSubject_s" type="text/javascript">$(function(){PrimeFaces.cw("InputText","widget_emailForm_messageSubject",{id:"emailForm:messageSubject"});});</script>
+                    </div>
+                </div>   
+                
+                <div class="form-group"><label for="emailForm:userMessage" class="col-sm-3 control-label">Message <span class="glyphicon glyphicon-asterisk text-danger" title="Required field"></span></label>
+                    <div class="col-sm-9"><textarea id="emailForm:userMessage" name="emailForm:userMessage" class="ui-inputfield ui-inputtextarea ui-widget ui-state-default ui-corner-all form-control" cols="20" rows="10" title="Message" maxlength="2147483647"></textarea><script id="emailForm:userMessage_s" type="text/javascript">$(function(){PrimeFaces.cw("InputTextarea","widget_emailForm_userMessage",{id:"emailForm:userMessage",autoResize:false});});</script>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <div class="col-sm-offset-3 col-sm-9">
+                        <p><span class="highlightBold">Please fill this out to prove you are not a robot.</span> <span class="glyphicon glyphicon-asterisk text-danger" title="Required field"></span>
+                        </p>
+                        <label for="emailForm:messageSum"> +  = 
+                        </label><input id="emailForm:messageSum" name="emailForm:messageSum" type="text" class="ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all " size="4" title="Human Access Validation Answer" /><script id="emailForm:messageSum_s" type="text/javascript">$(function(){PrimeFaces.cw("InputText","widget_emailForm_messageSum",{id:"emailForm:messageSum"});});</script>
+                    </div>
+                </div>
+                
+                <div class="button-block"><button id="emailForm:j_idt1087" name="emailForm:j_idt1087" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn btn-default" onclick="PrimeFaces.ab({s:&quot;emailForm:j_idt1087&quot;,f:&quot;emailForm&quot;,u:&quot;emailForm&quot;,onco:function(xhr,status,args,data){if (args &amp;&amp; !args.validationFailed) PF('contactForm').hide();;},pa:[{name:&quot;DO_VALIDATION&quot;,value:&quot;true&quot;}],fp:&quot;j_idt1058&quot;});return false;" type="submit"><span class="ui-button-text ui-c">Send Message</span></button><script id="emailForm:j_idt1087_s" type="text/javascript">$(function(){PrimeFaces.cw("CommandButton","widget_emailForm_j_idt1087",{id:"emailForm:j_idt1087"});});</script>
+                    <button class="btn btn-link" onclick="PF('contactForm').hide()" type="button">
+                        Cancel
+                    </button>
+                </div><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:2" value="-2222225460195793291:-2721504242141600477" autocomplete="off" />
+</form></div></div></div><script id="contactDialog_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","contactForm",{id:"contactDialog",modal:true});});</script>
+        <script src="/javax.faces.resource/js/dv_rebind_bootstrap_ui.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1"></script>
+        <script src="/javax.faces.resource/bs/js/bootstrap.min.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1"></script>
+        <script defer="defer" src="/javax.faces.resource/js/ie-compat.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1"></script>
+        <script defer="defer" src="/javax.faces.resource/js/owl.carousel.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1"></script>
+        <script defer="defer" src="/javax.faces.resource/js/jquery.matchHeight.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1"></script>
+        <script src="/javax.faces.resource/js/jquery.sharrre.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1"></script>
+        <script src="/javax.faces.resource/js/clipboard.min.js.xhtml;jsessionid=189faec9441124614d0e2b1230a3?version=5.11.1"></script>
+            <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+            <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script> 
+        
+        <script>
+            //<![CDATA[
+            $(document).ready(function () {
+                // Navbar Search Toggle
+                $(document).on('click', '#navbar-search-toggle', function (e) {
+                    $(this).parent("li").hide();
+                    $("form.navbar-form[role='search']").show();
+                });
+                $('body').click(function (e) {
+                    if (!$(e.target).closest("form.navbar-form[role='search']").length) {
+                        $("form.navbar-form[role='search']").hide();
+                        $("#navbar-search-toggle").parent("li").show();
+                    }
+                    ;
+                });
+            });
+            function clickSupportLink() {
+                $("[id$='headerSupportLink']").click();
+            }
+            //]]>
+        </script><script type="text/javascript" id="j_idt1091">bind_bsui_components();</script></body>
+</html>
