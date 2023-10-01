@@ -1,4 +1,4 @@
-# Preprocessing
+# Convert S00 Mobi files to MATLAB format
 
 ## Download the raw dataset
 
@@ -29,13 +29,7 @@ Inside the `convert_S00_files` folder, there is a processing pipeline to convert
 
 2. Run the MATLAB script `Reading_Swell_S00_file.m` to convert each `.S00` datafile to a corresponding `.mat` datafile.
 
-The `.mat` files will be stored in the `dataset` folder. 
-    
-## Preprocessing
-    
-Open in Google Colab the notebook 'preprocessing.ipynb' and run all cells.
-
-The final processed dataset `dataset_swell_processed.pkl` is located into the `dataset` folder.
+The `.mat` files will be stored in the `dataset` folder.
 
 
 
