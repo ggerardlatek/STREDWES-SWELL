@@ -16,7 +16,7 @@ for subj = 1:25
 
     end
     clear file files portiHRdata k
-    save(strcat('../dataset/s',num2str(subj),'_dati_fisiologici_raw.mat'))
+    save(strcat('../dataset/s',num2str(subj),'_physio_raw.mat'))
     clear 
     
 end
