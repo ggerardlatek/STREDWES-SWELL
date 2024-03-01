@@ -1,12 +1,12 @@
-%This script read .S00 file of each subject and save them as .mat into "Data_raw" fold.
+%This script read .S00 file of each subject and save them as .mat into "dataset" fold.
 %S00 physiological data must be first downloaded into Swell_DB_S00_raw fold before use
 %(https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x55-69zp)
 
 for subj = 1:25
 
-    files = dir(strcat('../raw_data/pp',num2str(subj),'*.S00'));
+    files = dir(fullfile('Swell_DB_S00_raw',strcat('pp',num2str(subj),'*.S00')));
     for file = files'
-        portiHRdata = tms_read(strcat('../raw_data/',file.name));
+        portiHRdata = tms_read(file);
         if subj>=10
            k=4;
         else 
@@ -16,7 +16,7 @@ for subj = 1:25
 
     end
     clear file files portiHRdata k
-    save(strcat('../dataset/s',num2str(subj),'_physio_raw.mat'))
+    save(fullfile('dataset',strcat('s',num2str(subj),'_physio_raw.mat')))
     clear 
     
 end

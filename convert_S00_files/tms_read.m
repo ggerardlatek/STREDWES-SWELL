@@ -1,4 +1,4 @@
-function [signal] = tms_read(filename)
+function [signal] = tms_read(file)
 %
 % function [signal] = tms_read()
 %   
@@ -8,7 +8,7 @@ function [signal] = tms_read(filename)
 %   file needs to be read.
 %
 %   Function call:
-%       data = tms_read(filename);
+%       data = tms_read(file);
 %
 %   Most output parameters speak for themselves 
 %    (like: filename, path, measurementdate, measurementtime, measurementduration)
@@ -41,28 +41,19 @@ disp(' ');
 
 signal = struct;
 
-%dirr = ini_lezen;
-dirr = pwd;
-% dirr = [dirr '\*.S00'];
-% 
-% % Open GUI to choose file to read 
-% [filename, pathname, filterindex] = uigetfile(dirr, 'Pick a data file');
+filename = file.name;
+pathname = file.folder;
+fid = fopen(fullfile(pathname,filename));
 
-pathname=[dirr '\'];
-
-if isequal([filename,pathname],[0,0])
+if fid == -1
     disp('No file has been selected. Cancel!');
     return;
 else
-
     % export for later use
     signal.fname = filename(1:length(filename)-4);
     signal.path = pathname; 
-    signal.filename = [pathname filename];
-    
-   
-    fid = fopen(signal.filename);
-    
+    signal.filename = [pathname '/' filename];
+           
     fprintf('Start reading: %s\n',signal.filename);
     disp('Reading file header ...');
 %    signal.header = fread(fid,217,'int8');
@@ -226,4 +217,3 @@ for g = 1:size(data,1)
 end %for
 fprintf('\n');
 end %function    
-
